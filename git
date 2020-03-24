@@ -1,0 +1,2 @@
+# To disable SSL certificate checking for a specific repo
+git config http.sslVerify false
