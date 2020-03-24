@@ -1,0 +1,2 @@
+# on opensuse leap 15.1, repo-update wouldn't sync, so disable it and use the following mirror
+zypper ar http://mirror.rackspace.com/openSUSE/update/leap/15.1/oss/ repo-update-mirror
