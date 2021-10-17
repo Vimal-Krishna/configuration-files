@@ -2,3 +2,7 @@
 git config http.sslVerify false
 # To disable it globally
 git config --global http.sslVerify false
+
+# Add user name and email on a fresh install of git
+git config --global user.name "Vimal Krishna"
+git config --global user.email "vimxxxxxxxxa.84@gmail.com"
